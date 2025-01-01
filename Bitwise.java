@@ -5,5 +5,5 @@ public class Bitwise{
 		System.out.println(12|45);
 		System.out.println(120|190);
 		
-	}
+
 }
