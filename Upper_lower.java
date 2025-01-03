@@ -1,6 +1,6 @@
 public class Upper_lower{
 	public static void main(String[]args){
-		char ch ='*';
+		char ch ='@';
 		
 		if(ch >='A' && ch <='Z'){
 			System.out.println("upper_case");
